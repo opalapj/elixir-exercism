@@ -14,3 +14,7 @@ https://exercism.org/tracks/elixir/concepts/basics
 
 https://exercism.org/tracks/elixir/concepts/anonymous-functions
 
+# Bit Manipulation
+
+https://exercism.org/tracks/elixir/concepts/bit-manipulation
+
