@@ -21,3 +21,8 @@ https://exercism.org/tracks/elixir/concepts/bit-manipulation
 # Booleans
 
 https://exercism.org/tracks/elixir/concepts/booleans
+
+# Numbers
+
+https://exercism.org/tracks/elixir/concepts/integers
+https://exercism.org/tracks/elixir/concepts/floating-point-numbers
