@@ -18,3 +18,6 @@ https://exercism.org/tracks/elixir/concepts/anonymous-functions
 
 https://exercism.org/tracks/elixir/concepts/bit-manipulation
 
+# Booleans
+
+https://exercism.org/tracks/elixir/concepts/booleans
