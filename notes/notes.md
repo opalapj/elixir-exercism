@@ -61,3 +61,10 @@ https://exercism.org/tracks/elixir/concepts/pipe-operator
 
 https://exercism.org/tracks/elixir/concepts/strings
 
+# Maps
+
+https://exercism.org/tracks/elixir/concepts/maps
+
+# Module Attributes As Constants
+
+https://exercism.org/tracks/elixir/concepts/module-attributes-as-constants
