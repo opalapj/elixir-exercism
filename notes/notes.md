@@ -56,3 +56,7 @@ https://exercism.org/tracks/elixir/concepts/pattern-matching
 # Pipe Operator
 
 https://exercism.org/tracks/elixir/concepts/pipe-operator
+
+# Strings
+
+https://exercism.org/tracks/elixir/concepts/strings
