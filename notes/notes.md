@@ -68,3 +68,8 @@ https://exercism.org/tracks/elixir/concepts/maps
 # Module Attributes As Constants
 
 https://exercism.org/tracks/elixir/concepts/module-attributes-as-constants
+
+# Docs, Typespecs
+
+https://exercism.org/tracks/elixir/concepts/docs
+https://exercism.org/tracks/elixir/concepts/typespecs
