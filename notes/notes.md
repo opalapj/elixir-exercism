@@ -38,3 +38,9 @@ https://exercism.org/tracks/elixir/concepts/cond
 # Lists
 
 https://exercism.org/tracks/elixir/concepts/lists
+
+# Default arguments, Guards, Multiple Clause Functions
+
+https://exercism.org/tracks/elixir/concepts/default-arguments
+https://exercism.org/tracks/elixir/concepts/guards
+https://exercism.org/tracks/elixir/concepts/multiple-clause-functions
