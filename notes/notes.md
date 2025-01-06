@@ -48,3 +48,7 @@ https://exercism.org/tracks/elixir/concepts/multiple-clause-functions
 # Tuples
 
 https://exercism.org/tracks/elixir/concepts/tuples
+
+# Pattern Matching
+
+https://exercism.org/tracks/elixir/concepts/pattern-matching
