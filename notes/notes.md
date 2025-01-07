@@ -128,3 +128,22 @@ https://exercism.org/tracks/elixir/concepts/case
 # IO
 
 https://exercism.org/tracks/elixir/concepts/io
+
+# If
+
+https://exercism.org/tracks/elixir/concepts/if
+
+In `Elixir`, all datatypes evaluate to a `truthy` or `falsy` value when they are
+encountered in a boolean context (like an `if` expression). All data is
+considered `truthy` except for `false` and `nil`. In particular, empty strings,
+the integer 0, and empty lists are all considered truthy in Elixir.
+
+# Nil
+
+https://exercism.org/tracks/elixir/concepts/nil
+
+# PIDs, Processes
+
+https://exercism.org/tracks/elixir/concepts/pids  
+https://exercism.org/tracks/elixir/concepts/processes
+
