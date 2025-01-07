@@ -10,6 +10,32 @@ https://exercism.org/tracks/elixir/concepts/basics
 - Naming conventions
 - Comments
 
+## Named functions and arguments matching
+
+Best practice is to put only name and arguments of function at first and then
+next definitions according to various patterns:
+
+```elixir
+def filter_by_year(wines, year)
+def filter_by_year([], _year), do: ...
+def filter_by_year([{_, year, _} = wine | tail], year), do: ...
+def filter_by_year([{_, _, _} | tail], year), do: ...
+```
+
+Pattern matching in third definition:
+
+```elixir
+def filter_by_year([{_, year, _} = wine | tail], year) do
+  [wine | filter_by_year(tail, year)]
+end
+```
+
+not only match first argument but also uses it (`wine`) in local scope.
+
+Another interesting thing is using second argument `year` in pattern matching
+for first argument. Local scope is already being created from name and
+arguments.
+
 # Anonymous Functions
 
 https://exercism.org/tracks/elixir/concepts/anonymous-functions
