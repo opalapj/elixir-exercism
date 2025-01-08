@@ -40,40 +40,11 @@ arguments.
 
 https://exercism.org/tracks/elixir/concepts/anonymous-functions
 
-# Bit Manipulation
-
-https://exercism.org/tracks/elixir/concepts/bit-manipulation
-
-# Booleans
-
-https://exercism.org/tracks/elixir/concepts/booleans
-
-# Numbers
-
-https://exercism.org/tracks/elixir/concepts/integers  
-https://exercism.org/tracks/elixir/concepts/floating-point-numbers
-
-# Atoms
-
-https://exercism.org/tracks/elixir/concepts/atoms
-
-# Cond
-
-https://exercism.org/tracks/elixir/concepts/cond
-
-# Lists
-
-https://exercism.org/tracks/elixir/concepts/lists
-
 # Default arguments, Guards, Multiple Clause Functions
 
 https://exercism.org/tracks/elixir/concepts/default-arguments  
 https://exercism.org/tracks/elixir/concepts/guards  
 https://exercism.org/tracks/elixir/concepts/multiple-clause-functions
-
-# Tuples
-
-https://exercism.org/tracks/elixir/concepts/tuples
 
 # Pattern Matching
 
@@ -82,14 +53,6 @@ https://exercism.org/tracks/elixir/concepts/pattern-matching
 # Pipe Operator
 
 https://exercism.org/tracks/elixir/concepts/pipe-operator
-
-# Strings
-
-https://exercism.org/tracks/elixir/concepts/strings
-
-# Maps
-
-https://exercism.org/tracks/elixir/concepts/maps
 
 # Module Attributes As Constants
 
@@ -142,18 +105,97 @@ Use `t/1` function:
 t(Module)
 t(Module.type)
 ```
+# Booleans
+
+https://exercism.org/tracks/elixir/concepts/booleans
+
+# Numbers
+
+https://exercism.org/tracks/elixir/concepts/integers  
+https://exercism.org/tracks/elixir/concepts/floating-point-numbers
+
+# Atoms
+
+https://exercism.org/tracks/elixir/concepts/atoms
+
+# Strings
+
+https://exercism.org/tracks/elixir/concepts/strings
 
 # Charlists
 
 https://exercism.org/tracks/elixir/concepts/charlists
 
+# Nil
+
+https://exercism.org/tracks/elixir/concepts/nil
+
+# Tuples
+
+https://exercism.org/tracks/elixir/concepts/tuples
+
+# Lists
+
+https://exercism.org/tracks/elixir/concepts/lists
+
+# Keyword Lists
+
+https://exercism.org/tracks/elixir/concepts/keyword-lists
+
+# Maps
+
+https://exercism.org/tracks/elixir/concepts/maps
+
+# Keyword Lists vs Maps
+
+## Keyword Lists
+
+- keys must be atoms
+- keys are ordered, as specified by the developer
+- keys can be given more than once
+- pattern matching does require the number of items and their order to match
+- dynamic-only access:
+
+```elixir
+map = [name: "john", age: 42]
+# dynamic
+map[:name]
+```
+
+## Maps
+
+- keys can be any value
+- keys have their own internal ordering
+- keys can not be given more than once
+- pattern matching does not require the number of items and their order to match
+- dynamic and static access:
+
+```elixir
+map = %{name: "john", age: 42}
+# dynamic
+map[:name]
+# static
+map.name
+```
+
+## Summary
+
+- use keyword lists for passing optional values to functions
+- use maps for general key-value data structures
+- use maps when working with data that has a predefined set of keys
+- use maps for pattern matching
+
+# Access Behaviour
+
+https://exercism.org/tracks/elixir/concepts/access-behaviour
+
+# Cond
+
+https://exercism.org/tracks/elixir/concepts/cond
+
 # Case
 
 https://exercism.org/tracks/elixir/concepts/case
-
-# IO
-
-https://exercism.org/tracks/elixir/concepts/io
 
 # If
 
@@ -164,15 +206,35 @@ encountered in a boolean context (like an `if` expression). All data is
 considered `truthy` except for `false` and `nil`. In particular, empty strings,
 the integer 0, and empty lists are all considered truthy in Elixir.
 
-# Nil
+# IO
 
-https://exercism.org/tracks/elixir/concepts/nil
+https://exercism.org/tracks/elixir/concepts/io
 
 # PIDs, Processes
 
 https://exercism.org/tracks/elixir/concepts/pids  
 https://exercism.org/tracks/elixir/concepts/processes
 
-# Keyword Lists
+# Bit Manipulation
 
-https://exercism.org/tracks/elixir/concepts/keyword-lists
+https://exercism.org/tracks/elixir/concepts/bit-manipulation
+
+# Bitstrings
+
+https://exercism.org/tracks/elixir/concepts/bitstrings
+
+# Regular Expressions
+
+https://exercism.org/tracks/elixir/concepts/regular-expressions
+
+# Dates and Time
+
+https://exercism.org/tracks/elixir/concepts/dates-and-time
+
+# Enum
+
+https://exercism.org/tracks/elixir/concepts/enum
+
+# Structs
+
+https://exercism.org/tracks/elixir/concepts/structs
