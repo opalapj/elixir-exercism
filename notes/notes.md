@@ -50,6 +50,11 @@ https://exercism.org/tracks/elixir/concepts/multiple-clause-functions
 
 https://exercism.org/tracks/elixir/concepts/pattern-matching
 
+# Recursion
+
+https://exercism.org/tracks/elixir/concepts/recursion
+https://exercism.org/tracks/elixir/concepts/tail-call-recursion
+
 # Pipe Operator
 
 https://exercism.org/tracks/elixir/concepts/pipe-operator
