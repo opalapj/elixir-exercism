@@ -135,6 +135,11 @@ https://exercism.org/tracks/elixir/concepts/charlists
 
 https://exercism.org/tracks/elixir/concepts/nil
 
+```elixir
+nil[:some_key] == nil
+# true
+```
+
 # Tuples
 
 https://exercism.org/tracks/elixir/concepts/tuples
