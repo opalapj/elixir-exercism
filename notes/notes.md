@@ -237,6 +237,10 @@ https://exercism.org/tracks/elixir/concepts/bitstrings
 
 https://exercism.org/tracks/elixir/concepts/binaries
 
+# File
+
+https://exercism.org/tracks/elixir/concepts/file
+
 # Regular Expressions
 
 https://exercism.org/tracks/elixir/concepts/regular-expressions
