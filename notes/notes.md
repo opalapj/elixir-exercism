@@ -233,6 +233,10 @@ https://exercism.org/tracks/elixir/concepts/bit-manipulation
 
 https://exercism.org/tracks/elixir/concepts/bitstrings
 
+# Binaries
+
+https://exercism.org/tracks/elixir/concepts/binaries
+
 # Regular Expressions
 
 https://exercism.org/tracks/elixir/concepts/regular-expressions
