@@ -63,6 +63,10 @@ https://exercism.org/tracks/elixir/concepts/pipe-operator
 
 https://exercism.org/tracks/elixir/concepts/module-attributes-as-constants
 
+# Structs
+
+https://exercism.org/tracks/elixir/concepts/structs
+
 # Docs, Typespecs
 
 https://exercism.org/tracks/elixir/concepts/docs  
@@ -195,6 +199,10 @@ map.name
 - use maps when working with data that has a predefined set of keys
 - use maps for pattern matching
 
+# List Comprehensions
+
+https://exercism.org/tracks/elixir/concepts/list-comprehensions
+
 # Access Behaviour
 
 https://exercism.org/tracks/elixir/concepts/access-behaviour
@@ -253,6 +261,3 @@ https://exercism.org/tracks/elixir/concepts/dates-and-time
 
 https://exercism.org/tracks/elixir/concepts/enum
 
-# Structs
-
-https://exercism.org/tracks/elixir/concepts/structs
