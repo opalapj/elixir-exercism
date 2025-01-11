@@ -63,6 +63,11 @@ https://exercism.org/tracks/elixir/concepts/pipe-operator
 
 https://exercism.org/tracks/elixir/concepts/module-attributes-as-constants
 
+# Alias, Import
+
+https://exercism.org/tracks/elixir/concepts/alias  
+https://exercism.org/tracks/elixir/concepts/import
+
 # Structs
 
 https://exercism.org/tracks/elixir/concepts/structs
