@@ -72,6 +72,11 @@ https://exercism.org/tracks/elixir/concepts/import
 
 https://exercism.org/tracks/elixir/concepts/structs
 
+# Exceptions
+
+https://exercism.org/tracks/elixir/concepts/errors  
+https://exercism.org/tracks/elixir/concepts/try-rescue
+
 # Protocols
 
 https://exercism.org/tracks/elixir/concepts/protocols
