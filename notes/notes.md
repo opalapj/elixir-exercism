@@ -268,3 +268,7 @@ https://exercism.org/tracks/elixir/concepts/dates-and-time
 # Enum
 
 https://exercism.org/tracks/elixir/concepts/enum
+
+# Randomness
+
+https://exercism.org/tracks/elixir/concepts/randomness
