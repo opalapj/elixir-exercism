@@ -272,3 +272,7 @@ https://exercism.org/tracks/elixir/concepts/enum
 # Randomness
 
 https://exercism.org/tracks/elixir/concepts/randomness
+
+# Erlang Libraries
+
+https://exercism.org/tracks/elixir/concepts/erlang-libraries
