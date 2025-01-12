@@ -76,6 +76,7 @@ https://exercism.org/tracks/elixir/concepts/structs
 
 https://exercism.org/tracks/elixir/concepts/errors  
 https://exercism.org/tracks/elixir/concepts/try-rescue
+https://exercism.org/tracks/elixir/concepts/exceptions
 
 # Protocols
 
