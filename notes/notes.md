@@ -252,6 +252,14 @@ https://exercism.org/tracks/elixir/concepts/processes
 
 https://exercism.org/tracks/elixir/concepts/agent
 
+# Links
+
+https://exercism.org/tracks/elixir/concepts/links
+
+# Tasks
+
+https://exercism.org/tracks/elixir/concepts/tasks
+
 # Bit Manipulation
 
 https://exercism.org/tracks/elixir/concepts/bit-manipulation
