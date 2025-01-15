@@ -59,6 +59,10 @@ https://exercism.org/tracks/elixir/concepts/tail-call-recursion
 
 https://exercism.org/tracks/elixir/concepts/pipe-operator
 
+# with
+
+https://exercism.org/tracks/elixir/concepts/with
+
 # Module Attributes As Constants
 
 https://exercism.org/tracks/elixir/concepts/module-attributes-as-constants
