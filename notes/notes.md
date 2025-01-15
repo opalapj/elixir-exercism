@@ -288,6 +288,10 @@ https://exercism.org/tracks/elixir/concepts/dates-and-time
 
 https://exercism.org/tracks/elixir/concepts/enum
 
+# Stream
+
+https://exercism.org/tracks/elixir/concepts/streams
+
 # Randomness
 
 https://exercism.org/tracks/elixir/concepts/randomness
